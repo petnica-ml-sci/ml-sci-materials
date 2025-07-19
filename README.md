@@ -9,6 +9,7 @@ This is the official repo for the Petnica Summer Institute Summer School on Mach
 - Self-Supervised Learning
 - Physics-informed neural networks
 - Bayesian Networks
-- Normalizing Flows
-With the applications including, but not limited to: Computer Vision, Signal Processing, Hydrodynamics, Genetics, Cybersecurity, Linguistics, Astrophysics / Cosmology, etc.
+
+
+## With the applications including, but not limited to: Computer Vision, Signal Processing, Hydrodynamics, Genetics, Cybersecurity, Linguistics, Astrophysics / Cosmology, etc.
 
